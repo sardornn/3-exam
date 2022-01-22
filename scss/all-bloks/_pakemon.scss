@@ -1,0 +1,75 @@
+.pakemon__list{
+    list-style-type: none;
+    row-gap: 30px;
+    margin: 0;
+    padding: 0;
+    max-width: 1320px;
+    width: 100%;
+    margin: 0 auto;
+    
+}
+
+.pakemon__item{
+    text-align: left;
+}
+.pakemon__type{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #000000;
+}
+
+span{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+    
+}
+.pakemon__inner{
+    width: 307px;
+    padding: 30PX;
+    border-radius: 15px;
+    
+}
+
+
+
+
+
+.pakemon__heading{
+    line-height: 28px;
+    font-size: 24px; 
+}
+.input{
+    width: 260px;
+    height: 60px;
+    border: solid 2px hsl(0, 0%, 0%);
+    border-radius: 15px;
+    background: white;
+    
+}
+
+.pakemon__button{
+    width: 260px;
+    height: 60px;
+    background: #FFFFFF;
+    border: 2px solid #000000;
+    box-sizing: border-box;
+    border-radius: 15px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+}
+
+.pakemon__form{
+    max-width: 1260px;
+    width: 100%;
+    margin: 0 auto;
+}
